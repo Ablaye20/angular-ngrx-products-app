@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 4300,
+      "quantity": "99999",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "p",
+      "price": "90",
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azerty",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "ppppgh",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    }
+  ]
+}
